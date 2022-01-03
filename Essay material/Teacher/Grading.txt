@@ -1,0 +1,108 @@
+Good:
+Grading:
+
+- Criteria 1a: 4/4
+
+- Criteria 1b: 4/4
+
+- Criteria 1c: 2/3
+
+The student should provide global data instead of data about a specific company to convince readers of the importance of the essay topic.
+
+- Criteria 1d: 4/4
+
+- Criteria 2a: 2/5
+
+Some explanation of how difficult it is to deal with security vulnerabilities, what kinds of issues/challenges to be overcome should be provided before the presentation of existing solutions.
+
+- Criteria 2b: 4/5
+
+Many different solutions are presented without precising the rationale behind the student's choice. So there is doubt about whether they are worth to be presented.
+
+- Criteria 2c: 2/5
+
+The most common place to put a citation is at the end of the sentence that includes the source information, but put it after the period and add a space after the text right before inserting a citation in the document. Please indicate also the sources of the figures and cite the figures explicitly in the manuscript text. When summarizing or paraphrasing someone else's information in several sentences or more, it feels awkward to put in a citation at the end of each sentence. In this case, introduce the source at the beginning of the paragraph, then refer back to the source when needed.
+
+- Criteria 3a: 10/10
+
+- Criteria 3b: 10/10
+
+- Criteria 3c: 10/10
+
+- Criteria 3d: 8/10
+
+The overall intent of the paper in the detailed presentation of so many different works is not clear.
+
+- Criteria 3e: 10/10
+
+- Criteria 4a: 5/5
+
+- Criteria 4b: 4/5
+
+The outline in the table of contents is fine but regrettably after a literature review, instead of pointing out common elements or making overall analysis the student continues to make literature review.
+
+- Criteria 4c: 5/5
+
+- Criteria 4d: 5/5
+
+Total points: 89
+Bad:
+Grading:
+
+- Criteria 1a: 1/4
+
+The abstract lays out the general subject of network safety but the main body of the paper focuses only on malware threats. Not every malware can spread itself to other computers.
+
+- Criteria 1b: 2/4
+
+
+It is hard to understand the context that leads to the student's interest in malware research.
+- Criteria 1c: 1/3
+
+The student provides no proof or facts to show the dangers of malware and the need for IT security.
+
+- Criteria 1d: 1/4
+
+The abstract and the conclusion are not related to the contents of the report. The Introduction section should give an overview of what is to be presented in the next sections.
+
+- Criteria 2a: 5/5
+
+- Criteria 2b: 1/5
+
+The report doesn't set forth the solutions after laying out the problems.
+
+- Criteria 2c: 2/5
+
+Most of the references are not cited in the text. The reference list is not properly formatted.
+
+- Criteria 3a: 6/10
+
+The report presents the example of WannaCry malware but offers almost no analysis of it.
+
+- Criteria 3b: 3/10
+
+When writing the assignment, the student needs to keep the distinction between description and analysis front of mind. Some description is simply unavoidable and in fact quite essential, but keep it to a minimum. The essay needs to be analytical rather than descriptive.
+
+- Criteria 3c: 3/10
+
+The report is essentially a synthesis of information with almost no original content.
+
+- Criteria 3d: 3/10
+
+Figures and illustrations reflect a lot of meanings, adding a value to a text of paper, especially in scientific research. The student should choose and design figures and illustrations to make the manuscript well communicating with readers. Many parts of the text are confusing and meaningless.
+
+- Criteria 3e: 2/10
+
+The conclusion makes no sense at all.
+
+- Criteria 4a: 5/5
+
+- Criteria 4b: 1/5
+
+Headings should be used to delineate the different sections of the report. It is not necessary but recommended to number the section headings. Use heading sizes and font types to show the hierarchical relationship of ideas within the report.
+
+- Criteria 4c: 5/5
+
+- Criteria 4d: 1/5
+
+The report is badly written and confusing.
